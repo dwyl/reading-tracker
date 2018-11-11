@@ -56,28 +56,34 @@ A mini project to emit a "page turn" sound every minute (_or set time interval_)
 
 As usual, when thinking about how to _solve_ a problem,
 our _first_ instinct is to search on Google<sup>1</sup> for
-the keywords we think are most likely to give us a result:
-
+the keywords we think are most likely to give us a result: <br />
+"**reading metronome**": https://www.google.com/search?q=reading+metronome
 
 ![image](https://user-images.githubusercontent.com/194400/48310966-c56ae080-e58f-11e8-98ce-b60fc6574143.png)
 
+As you can see, we clicked and read _every_ link to figure out if
+anyone **`else`** has _already_ built this!
 
+We also searched the iOS App Store and Google Play
+and didn't find anything matching "reading metronome".
 
+>
 
-
-I searched the iOS App Store and didn't find anything matching
-"reading metronome".
+## Elm?
 
 I could _easily_ solve this in _minutes_ using **JavaScript**
 (_the language I've written most in the last 10 years_)
-but I'm _forcing_ myself to use Elm so that I develop the muscle memory.
+but in _forcing_ myself to use Elm (_instead of reaching for my
+  ["hammer"](https://en.wikipedia.org/wiki/Law_of_the_instrument ..._),
+I develop the muscle memory.
+
 
 # Who?
 
-This project is for [me](https://github.com/nelsonic)
+This project is for [me](https://github.com/nelsonic);
 I am the "target user".
-I'm ["scratching my own itch"](https://en.wiktionary.org/wiki/scratch_one%27s_own_itch).
-The _tightest_ possible feedback loop.
+I'm ["**scratching my _own_ itch**"](https://en.wiktionary.org/wiki/scratch_one%27s_own_itch).
+Ensuring the _tightest_ possible **feedback loop**.
 
 I'm writing _publishing_ it as an _example_
 of _why_ learning to _code_
