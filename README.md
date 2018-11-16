@@ -7,8 +7,8 @@ so that I/we can read all the books on my/our "to read" list at a steady pace.
 
 # Why?
 
-As a person on a perpetual life knowledge quest,
-do a *lot* of reading every day.
+As a person on a perpetual life learning & knowledge quest,
+I do a *lot* of reading every day.
 I read a _minimum_ of **1 hour** each morning.
 With this _daily_ habit I have managed to read
 a couple of _thousand_ books in the last 20 years.
@@ -17,21 +17,25 @@ I read an _average_ of **1 book per week** year round.
 This might sound like a little or a _lot_
 depending on your own reading practice and ambitions.
 
-Sometimes I read several books a week during the summer,
+Sometimes I read several books a week (e.g: during the summer),
 but others I go down to 1 every 2 weeks when I'm particularly busy.
 
 
-On Some days I read for 3 hours i
-But I often find myself reading "slowly" ...
+On Some days I read for 3 hours because I get immersed in the book,
+but I often find myself reading "slowly" ...
 For example I might read **20 pages per hour** of a non-fiction book,
 i.e. 3 pages minutes per page (_average_).
 I _know_ I can read **_much_ faster** than this,
 because during University, I trained myself to speed-read
 in order to consume all the material necessary
-for the literature review in my "thesis".
-At the time I spent a week learning to speed-read
+for the literature review in my masters thesis.
+
+At the time I figured that the most effective way to get through the _stack_
+I had to read, was to learn how to speed-read.
+I spent a week learning to speed-read from scratch
 and then devoured tens of thousands of pages of books and journal articles
 in the subsequent weeks; it was a highly worthwhile effort!
+
 Sadly, my reading speed has declined over the past few years,
 possibly due to chronic insomnia/tiredness, but for whatever reason,
 I find myself not getting through the books nearly as fast as I used to!
