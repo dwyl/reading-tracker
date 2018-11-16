@@ -1,0 +1,25 @@
+{
+  "name": "speed-reading-metronome",
+  "version": "1.0.0",
+  "description": "Speed reading timer and pace-setter to help you read more effectively",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nelsonic/speed-reading-metronome.git"
+  },
+  "keywords": [
+    "speed",
+    "reading",
+    "coach",
+    "metronome"
+  ],
+  "author": "nelsonic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nelsonic/speed-reading-metronome/issues"
+  },
+  "homepage": "https://github.com/nelsonic/speed-reading-metronome#readme"
+}
