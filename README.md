@@ -20,7 +20,6 @@ depending on your own reading practice and ambitions.
 Sometimes I read several books a week (e.g: during the summer),
 but others I go down to 1 every 2 weeks when I'm particularly busy.
 
-
 On Some days I read for 3 hours because I get immersed in the book,
 but I often find myself reading "slowly" ...
 For example I might read **20 pages per hour** of a non-fiction book,
@@ -52,10 +51,6 @@ but I want to _experiment_ with it and see if I can make it work!
 
 A mini project to emit a "page turn" sound every minute (_or set time interval_)
 
-
-
-
-
 ## Doesn't This _Already_ Exist...?
 
 As usual, when thinking about how to _solve_ a problem,
@@ -71,15 +66,13 @@ anyone **`else`** has _already_ built this!
 We also searched the iOS App Store and Google Play
 and didn't find anything matching "reading metronome".
 
->
-
 ## Elm?
 
 I could _easily_ solve this in _minutes_ using **JavaScript**
 (_the language I've written most in the last 10 years_)
 but in _forcing_ myself to use Elm (_instead of reaching for my
   ["hammer"](https://en.wikipedia.org/wiki/Law_of_the_instrument ..._),
-I develop the muscle memory.
+I develop the muscle memory in the skill I want to _focus_ on.
 
 
 # Who?
@@ -91,8 +84,12 @@ Ensuring the _tightest_ possible **feedback loop**.
 
 I'm writing _publishing_ it as an _example_
 of _why_ learning to _code_
-is a worthwhile investment.
+is a worthwhile _personal_ investment.
 It means you can _solve_ your own problems/challenges!
+The fact that you can get _paid_ to write code
+which in turn enables you to do
+[_many_ other things](https://github.com/dwyl/home)
+with your life is a _bonus_, not the _focus_.
 
 ## Pre-requisites?
 
